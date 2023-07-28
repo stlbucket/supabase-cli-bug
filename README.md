@@ -39,6 +39,9 @@ If you are looking for a solution with Nuxt 2, checkout https://github.com/supab
 3. Prepare development server using `yarn dev:prepare` or `npm run dev:prepare`
 4. Build module using `yarn build` or `npm build`
 5. Launch playground using `yarn dev` or `npm run dev`
+6. Click the "Login OTP" button - this will send an email to test@example.com, and redirect to your local InBucket at 54324
+7. Use the link
+8. Observe the problem - app doesn't actually login, just has the link with the token in the URL.
 
 ## License
 
